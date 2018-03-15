@@ -1,0 +1,17 @@
+h1{
+font-size:50px;
+	color: black;
+	text-shadow:   #666 1px 1px 0, white 2px 2px 0, 
+             #666 3px 3px 0, black 4px 4px 0, 
+                #808080 5px 5px 0;
+}
+h3{
+	color:black;
+	text-shadow:  0.2em 0.2em 5px rgba(122,122,122,0.5);
+}
+
+.image-flex {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
